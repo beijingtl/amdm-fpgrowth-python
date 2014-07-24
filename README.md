@@ -4,7 +4,7 @@ FP-growth
 Implements FP-growth algorithm for frequent pattern mining.
 
 Done as part of *groupwork* for Algorithmic Methods of Data Mining P course at Aalto University.
-Autumn semester '13.
+Autumn semester '12.
 
 Requires Python 3.
 
